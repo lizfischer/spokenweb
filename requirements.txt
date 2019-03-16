@@ -1,1 +1,7 @@
+jupyter
+matplotlib
+numpy
+scipy
 librosa
+pandas
+Pillow
