@@ -5,6 +5,6 @@ scipy
 librosa
 pandas
 Pillow
-urllib
+
 newspaper3k
 bs4
