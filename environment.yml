@@ -1,0 +1,17 @@
+name: spokenweb
+channels:
+  -
+dependencies:
+  - python
+  - jupyter
+  - matplotlib
+  - numpy
+  - scipy
+  - librosa
+  - pandas
+  - Pillow
+  - newspaper3k
+  - bs4
+  - lda
+  - textblob
+  - nltk
