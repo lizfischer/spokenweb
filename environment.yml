@@ -1,6 +1,4 @@
 name: spokenweb
-channels:
-  -
 dependencies:
   - python
   - jupyter
