@@ -1,1 +1,1 @@
-python -c "import nltk; nltk.download('all')
+python -c "import nltk; nltk.download('all')"
